@@ -1,0 +1,11 @@
+{
+  "name": "Cydemoblaze",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "angga trianto",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "prettier": "^2.6.2"
+  }
+}
